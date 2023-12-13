@@ -1,4 +1,4 @@
-# BlankGrabber
+# Removal
 BlankGrabber is an easy rat to remove and recover from.
 
 Simply (IN THIS ORDER):
