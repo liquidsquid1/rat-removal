@@ -13,6 +13,6 @@ These RAT's can contain:
 
 Follow any of these guides for the RATS:
 
-- Blank Grabber Removal (Recommended)
+- Blank Grabber Removal (Recommended) [BlankGrabber Removal Guide](https://liquidsquid1.github.io/rat-removal/rats/blankgrabber)
 - SeroXen Removal (EXTREME)
 - Full Factory Reset (LAST RESORT)
