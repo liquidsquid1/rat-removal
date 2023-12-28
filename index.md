@@ -6,13 +6,14 @@ A RAT (Remote Access Trojan) is used by bad actors (we call them skids round 'er
 These RAT's can contain:
 - Cookie and Password logger
 - IP address tracker
-- AntiVirus site blocker (see https://liquidsquid1.github.io/rat/extra/av)
+- AntiVirus site blocker (see COMING SOON)
 - Webcam Stream
 
 ## I'm scared, how do I remove it?
 
 Follow any of these guides for the RATS:
 
+- Rat Removal (Recommended) [Your Average Rat Removal Guide](https://liquidsquid1.github.io/rat-removal/rats/generic)
 - Blank Grabber Removal (Recommended) [BlankGrabber Removal Guide](https://liquidsquid1.github.io/rat-removal/rats/blankgrabber)
-- SeroXen Removal (EXTREME)
-- Full Factory Reset (LAST RESORT)
+- ~~SeroXen Removal (EXTREME)~~ NOT FINISHED
+- ~~Full Factory Reset (LAST RESORT)~~ NOT FINISHED
