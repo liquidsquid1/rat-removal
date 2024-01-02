@@ -31,7 +31,7 @@ Most RATs authorise extensions to run in the background of your browser that con
 
 ## 5. Refresh group policy:
 Some RATs try to restrict your access to certain parts of your PC. To gain things like CMD back, run the following command in the terminal:
-- gpudate /force
+- gpupdate /force
 
 ## 6. RESET YOUR ONLINE PASSWORDS:
 You may be safe from malware now, but your info isn't. You need to change your password for every single website you have saved on your PC, and any website where you have selected REMEMBER ME for.
