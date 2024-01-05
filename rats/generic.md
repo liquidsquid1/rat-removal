@@ -9,6 +9,7 @@ What you are mostly looking for is:
 - Any *.SCR files
 - Any options highlighted in red
 - Any options with random names
+
 and right click them to scan with VirusTotal. If you do find one that either has malicious results or is not recognised, disable it.
 
 ## 2. Unblock your AntiVirus:
