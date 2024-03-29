@@ -25,4 +25,4 @@ Some rat creators are smart enough to hide it fully, in that case you would need
 
 ### thats not it?
 
-[Some rats hide in uefi bioses.](https://www.kaspersky.co.uk/blog/logofail-uefi-vulnerabilities/27098/) Mostly, you're screwed. Good luck getting out of this one.
+[Some rats hide in UEFI BIOSes.](https://www.kaspersky.co.uk/blog/logofail-uefi-vulnerabilities/27098/) Mostly, you're screwed. Good luck getting out of this one.
