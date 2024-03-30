@@ -21,7 +21,7 @@ Follow any of these guides for the RATS:
 
 ## THATS NOT EVERYTHING!
 
-Some rat creators are smart enough to hide it fully, in that case you would need a **full factory reset**. Please grab your nearest USB stick and perform a clean install of windows
+Some rat creators are smart enough to hide it fully, in that case you would need a **full factory reset**. Please grab your nearest USB stick and perform a clean install of windows.
 
 ### thats not it?
 
